@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_topic_language">
+    <sys_cs_topic_language action="INSERT_OR_UPDATE">
+        <cs_topic_id display_value="Report IT Issue">f95dd0e61be1911042196575624bcb01</cs_topic_id>
+        <language_code>de</language_code>
+        <nlu_entities>[]</nlu_entities>
+        <nlu_intent>OpenITTicket</nlu_intent>
+        <nlu_intent_label>OpenITTicket</nlu_intent_label>
+        <nlu_model>global_0f3b8e580b203300a1b16c2367673a75_9c6528545b17201024fa1fc40a81c77e</nlu_model>
+        <nlu_model_label>ITSM NLU for Virtual Agent DE</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cs_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-29 02:01:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>8a5dd0e61be1911042196575624bcb08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cs_topic_language_8a5dd0e61be1911042196575624bcb08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-29 02:01:25</sys_updated_on>
+    </sys_cs_topic_language>
+</record_update>
